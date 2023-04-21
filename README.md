@@ -11,6 +11,7 @@ Este projeto foi realizado para fins de treino sobre um curso feito de HTML e CS
 
 ## :file_folder: Acesso ao projeto
 https://gabrielfmontoni.github.io/aluraplus/
+
 https://aluraplus-2hzhzly6l-gabrielfmontoni.vercel.app
 
 ## :hammer_and_wrench: Abrir e rodar o projeto
