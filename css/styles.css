@@ -188,4 +188,8 @@ body{
     .rodape__lista{
         display: block;
     }
+
+    .dispositivos__titulo{
+        font-size: 28px;
+    }
 }
