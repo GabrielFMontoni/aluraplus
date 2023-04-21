@@ -10,7 +10,9 @@ Um projeto da alura do curso de Praticando HTML e CSS da formação frontend.
 Este projeto foi realizado para fins de treino sobre um curso feito de HTML e CSS da ALURA.
 
 ## :file_folder: Acesso ao projeto
-Este projeto não foi hospedado ainda e não é possível acessa-lo na web.
+https://gabrielfmontoni.github.io/aluraplus/
+
+https://aluraplus-2hzhzly6l-gabrielfmontoni.vercel.app
 
 ## :hammer_and_wrench: Abrir e rodar o projeto
 Abra o arquivo "index.html" em seu navegador.
